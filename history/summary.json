@@ -4,7 +4,7 @@
     "url": "https://elearning2.binadarma.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/elearning2.binadarma.ac.id.ico",
     "slug": "elearning2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.49%",
@@ -16,6 +16,7 @@
     "timeMonth": 1678,
     "timeYear": 1773,
     "dailyMinutesDown": {
+      "2023-05-02": 0,
       "2023-04-26": 159,
       "2023-04-25": 95,
       "2023-04-19": 17,
