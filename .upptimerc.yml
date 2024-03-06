@@ -5,6 +5,7 @@ repo: bidarmoment # The name of this repository
 sites:
   - name: Elearning2
     url: https://elearning2.binadarma.ac.id
+    __dangerous__insecure: true
   - name: Sisfo
     url: https://sisfo.binadarma.ac.id
 
