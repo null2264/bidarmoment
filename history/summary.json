@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/elearning2.binadarma.ac.id.ico",
     "slug": "elearning2",
     "status": "down",
-    "uptime": "98.95%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "78.50%",
-    "uptimeMonth": "95.05%",
-    "uptimeYear": "98.79%",
+    "uptime": "98.93%",
+    "uptimeDay": "92.29%",
+    "uptimeWeek": "77.40%",
+    "uptimeMonth": "94.80%",
+    "uptimeYear": "98.77%",
     "time": 4412,
-    "timeDay": 2187,
+    "timeDay": 0,
     "timeWeek": 1956,
     "timeMonth": 1956,
-    "timeYear": 5342,
+    "timeYear": 5355,
     "dailyMinutesDown": {
-      "2024-03-09": 0,
+      "2024-03-10": 46,
+      "2024-03-09": 65,
       "2024-03-08": 156,
       "2024-03-07": 665,
       "2024-03-06": 642,
@@ -40,8 +41,7 @@
       "2023-04-26": 159,
       "2023-04-25": 95,
       "2023-04-19": 17,
-      "2023-04-05": 116,
-      "2023-03-11": 22
+      "2023-04-05": 116
     }
   },
   {
@@ -55,11 +55,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2164,
-    "timeDay": 2085,
-    "timeWeek": 2164,
-    "timeMonth": 2164,
-    "timeYear": 2164,
+    "time": 2111,
+    "timeDay": 1789,
+    "timeWeek": 2111,
+    "timeMonth": 2111,
+    "timeYear": 2111,
     "dailyMinutesDown": {}
   }
 ]
