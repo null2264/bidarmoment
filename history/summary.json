@@ -6,12 +6,12 @@
     "slug": "elearning2",
     "status": "up",
     "uptime": "98.93%",
-    "uptimeDay": "97.26%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "77.03%",
     "uptimeMonth": "94.71%",
     "uptimeYear": "98.76%",
     "time": 4399,
-    "timeDay": 1910,
+    "timeDay": 1711,
     "timeWeek": 1947,
     "timeMonth": 1947,
     "timeYear": 5343,
@@ -49,9 +49,9 @@
     "url": "https://sisfo.binadarma.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/sisfo.binadarma.ac.id.ico",
     "slug": "sisfo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -60,6 +60,8 @@
     "timeWeek": 2040,
     "timeMonth": 2040,
     "timeYear": 2040,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-11": 0
+    }
   }
 ]
