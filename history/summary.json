@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "77.03%",
     "uptimeMonth": "94.71%",
-    "uptimeYear": "98.76%",
-    "time": 4399,
-    "timeDay": 1711,
-    "timeWeek": 1947,
-    "timeMonth": 1947,
-    "timeYear": 5343,
+    "uptimeYear": "98.77%",
+    "time": 4393,
+    "timeDay": 2106,
+    "timeWeek": 1961,
+    "timeMonth": 1961,
+    "timeYear": 5357,
     "dailyMinutesDown": {
       "2024-03-10": 83,
       "2024-03-09": 65,
@@ -50,18 +50,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sisfo.binadarma.ac.id.ico",
     "slug": "sisfo",
     "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 2088,
-    "timeDay": 2007,
-    "timeWeek": 2088,
-    "timeMonth": 2088,
-    "timeYear": 2088,
-    "dailyMinutesDown": {
-      "2024-03-11": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2110,
+    "timeDay": 2388,
+    "timeWeek": 2110,
+    "timeMonth": 2110,
+    "timeYear": 2110,
+    "dailyMinutesDown": {}
   }
 ]
