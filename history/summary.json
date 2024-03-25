@@ -4,13 +4,13 @@
     "url": "https://elearning2.binadarma.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/elearning2.binadarma.ac.id.ico",
     "slug": "elearning2",
-    "status": "up",
+    "status": "down",
     "uptime": "98.42%",
-    "uptimeDay": "11.41%",
+    "uptimeDay": "13.04%",
     "uptimeWeek": "59.33%",
     "uptimeMonth": "82.55%",
-    "uptimeYear": "97.96%",
-    "time": 4307,
+    "uptimeYear": "97.97%",
+    "time": 4314,
     "timeDay": 2184,
     "timeWeek": 2112,
     "timeMonth": 2060,
@@ -46,7 +46,7 @@
       "2023-05-29": 351,
       "2023-05-28": 189,
       "2023-05-27": 313,
-      "2023-05-26": 118
+      "2023-05-26": 85
     }
   },
   {
