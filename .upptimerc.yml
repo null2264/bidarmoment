@@ -5,6 +5,7 @@ repo: bidarmoment # The name of this repository
 sites:
   - name: Main Website
     url: https://binadarma.ac.id
+    __dangerous__insecure: true
   - name: Elearning2
     url: https://elearning2.binadarma.ac.id
     __dangerous__insecure: true
