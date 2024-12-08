@@ -4,12 +4,12 @@
     "url": "https://binadarma.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/binadarma.ac.id.ico",
     "slug": "main-website",
-    "status": "up",
-    "uptime": "89.55%",
-    "uptimeDay": "33.14%",
-    "uptimeWeek": "45.56%",
+    "status": "down",
+    "uptime": "89.59%",
+    "uptimeDay": "40.26%",
+    "uptimeWeek": "48.29%",
     "uptimeMonth": "55.88%",
-    "uptimeYear": "89.55%",
+    "uptimeYear": "89.59%",
     "time": 18404,
     "timeDay": 27904,
     "timeWeek": 27763,
@@ -63,8 +63,7 @@
       "2024-10-15": 210,
       "2024-10-14": 125,
       "2024-10-13": 675,
-      "2024-10-12": 179,
-      "2024-10-11": 109
+      "2024-10-12": 179
     }
   },
   {
