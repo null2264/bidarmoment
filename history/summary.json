@@ -6,7 +6,7 @@
     "slug": "main-website",
     "status": "down",
     "uptime": "88.86%",
-    "uptimeDay": "20.66%",
+    "uptimeDay": "19.89%",
     "uptimeWeek": "72.83%",
     "uptimeMonth": "58.96%",
     "uptimeYear": "88.86%",
@@ -16,7 +16,7 @@
     "timeMonth": 22841,
     "timeYear": 19059,
     "dailyMinutesDown": {
-      "2025-02-01": 49,
+      "2025-02-01": 61,
       "2025-01-31": 1093,
       "2025-01-28": 132,
       "2025-01-27": 895,
