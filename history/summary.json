@@ -6,15 +6,15 @@
     "slug": "main-website",
     "status": "down",
     "uptime": "98.93%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "98.61%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "98.60%",
     "uptimeMonth": "86.43%",
-    "uptimeYear": "98.71%",
-    "time": 11847,
-    "timeDay": 3019,
-    "timeWeek": 4513,
-    "timeMonth": 4341,
-    "timeYear": 11948,
+    "uptimeYear": "98.72%",
+    "time": 11843,
+    "timeDay": 3128,
+    "timeWeek": 4391,
+    "timeMonth": 4345,
+    "timeYear": 11944,
     "dailyMinutesDown": {
       "2025-07-01": 13,
       "2025-06-28": 26,
@@ -43,7 +43,7 @@
       "2025-06-02": 106,
       "2025-06-01": 134,
       "2025-05-31": 615,
-      "2025-05-30": 93
+      "2025-05-30": 67
     }
   },
   {
@@ -98,7 +98,7 @@
     "timeDay": 1754,
     "timeWeek": 1829,
     "timeMonth": 1982,
-    "timeYear": 2899,
+    "timeYear": 2892,
     "dailyMinutesDown": {
       "2025-07-01": 102,
       "2025-06-30": 578,
