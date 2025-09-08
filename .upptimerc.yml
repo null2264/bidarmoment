@@ -36,5 +36,7 @@ workflowSchedule:
   updates: "0 3 * * *"
   uptime: "*/5 * * * *"
 
+i18n:
+  locale: en-GB
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
