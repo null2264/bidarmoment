@@ -121,15 +121,15 @@
     "url": "https://sisfo.binadarma.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/sisfo.binadarma.ac.id.ico",
     "slug": "sisfo",
-    "status": "up",
-    "uptime": "97.12%",
-    "uptimeDay": "73.61%",
-    "uptimeWeek": "92.22%",
+    "status": "down",
+    "uptime": "97.13%",
+    "uptimeDay": "73.59%",
+    "uptimeWeek": "93.38%",
     "uptimeMonth": "89.55%",
-    "uptimeYear": "95.47%",
-    "time": 2810,
+    "uptimeYear": "95.49%",
+    "time": 2811,
     "timeDay": 1556,
-    "timeWeek": 3210,
+    "timeWeek": 2715,
     "timeMonth": 2458,
     "timeYear": 2783,
     "dailyMinutesDown": {
@@ -211,7 +211,7 @@
       "2025-03-29": 22,
       "2025-03-27": 159,
       "2025-03-26": 421,
-      "2025-03-25": 162
+      "2025-03-25": 77
     }
   }
 ]
