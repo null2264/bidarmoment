@@ -1,7 +1,7 @@
 url: https://sisfo.binadarma.ac.id
-status: up
-code: 200
-responseTime: 1324
-lastUpdated: 2025-11-03T23:11:03.325Z
+status: down
+code: 500
+responseTime: 21298
+lastUpdated: 2025-11-04T03:34:27.490Z
 startTime: 2024-03-05T12:22:43.483Z
 generator: Upptime <https://github.com/upptime/upptime>
