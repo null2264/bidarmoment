@@ -6,15 +6,15 @@
     "slug": "main-website",
     "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "84.70%",
+    "uptimeDay": "84.69%",
     "uptimeWeek": "84.16%",
-    "uptimeMonth": "86.56%",
+    "uptimeMonth": "86.59%",
     "uptimeYear": "98.88%",
-    "time": 8301,
-    "timeDay": 5836,
-    "timeWeek": 5954,
-    "timeMonth": 5664,
-    "timeYear": 7708,
+    "time": 8289,
+    "timeDay": 5709,
+    "timeWeek": 5929,
+    "timeMonth": 5652,
+    "timeYear": 7704,
     "dailyMinutesDown": {
       "2025-12-18": 68,
       "2025-12-17": 153,
@@ -35,8 +35,7 @@
       "2025-12-01": 392,
       "2025-11-30": 1440,
       "2025-11-29": 962,
-      "2025-11-28": 47,
-      "2025-11-27": 12
+      "2025-11-28": 47
     }
   },
   {
