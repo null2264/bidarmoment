@@ -4,17 +4,17 @@
     "url": "https://binadarma.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/binadarma.ac.id.ico",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "65.95%",
+    "uptimeDay": "65.94%",
     "uptimeWeek": "76.27%",
-    "uptimeMonth": "83.33%",
+    "uptimeMonth": "83.38%",
     "uptimeYear": "98.61%",
-    "time": 6003,
-    "timeDay": 5710,
-    "timeWeek": 5184,
-    "timeMonth": 5229,
-    "timeYear": 5570,
+    "time": 6001,
+    "timeDay": 5385,
+    "timeWeek": 5112,
+    "timeMonth": 5214,
+    "timeYear": 5569,
     "dailyMinutesDown": {
       "2026-04-04": 317,
       "2026-04-03": 353,
@@ -39,7 +39,7 @@
       "2026-03-14": 97,
       "2026-03-13": 201,
       "2026-03-12": 441,
-      "2026-03-11": 50
+      "2026-03-11": 28
     }
   },
   {
@@ -90,7 +90,7 @@
     "slug": "sisfo",
     "status": "up",
     "uptime": "96.62%",
-    "uptimeDay": "78.92%",
+    "uptimeDay": "82.13%",
     "uptimeWeek": "83.11%",
     "uptimeMonth": "91.25%",
     "uptimeYear": "92.96%",
