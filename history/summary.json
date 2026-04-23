@@ -8,13 +8,13 @@
     "uptime": "99.21%",
     "uptimeDay": "60.08%",
     "uptimeWeek": "92.80%",
-    "uptimeMonth": "84.14%",
+    "uptimeMonth": "84.20%",
     "uptimeYear": "98.42%",
     "time": 5410,
     "timeDay": 5888,
     "timeWeek": 6707,
-    "timeMonth": 5809,
-    "timeYear": 5234,
+    "timeMonth": 5808,
+    "timeYear": 5236,
     "dailyMinutesDown": {
       "2026-04-22": 575,
       "2026-04-20": 87,
@@ -86,18 +86,19 @@
     "url": "https://sisfo.binadarma.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/sisfo.binadarma.ac.id.ico",
     "slug": "sisfo",
-    "status": "up",
+    "status": "down",
     "uptime": "96.56%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "88.56%",
-    "uptimeYear": "92.65%",
-    "time": 2433,
+    "uptimeYear": "92.66%",
+    "time": 2434,
     "timeDay": 1863,
     "timeWeek": 1788,
     "timeMonth": 1996,
     "timeYear": 2192,
     "dailyMinutesDown": {
+      "2026-04-23": 0,
       "2026-04-13": 119,
       "2026-04-12": 746,
       "2026-04-11": 1440,
@@ -182,8 +183,7 @@
       "2025-10-20": 83,
       "2025-10-19": 755,
       "2025-10-18": 402,
-      "2025-10-17": 528,
-      "2025-10-16": 33
+      "2025-10-17": 528
     }
   }
 ]
