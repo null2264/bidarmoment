@@ -14,7 +14,7 @@
     "timeDay": 10095,
     "timeWeek": 6158,
     "timeMonth": 6425,
-    "timeYear": 5336,
+    "timeYear": 5338,
     "dailyMinutesDown": {
       "2026-05-06": 65,
       "2026-05-05": 324,
@@ -93,7 +93,7 @@
     "url": "https://sisfo.binadarma.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/sisfo.binadarma.ac.id.ico",
     "slug": "sisfo",
-    "status": "up",
+    "status": "down",
     "uptime": "96.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "83.38%",
